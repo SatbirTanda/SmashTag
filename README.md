@@ -6,4 +6,4 @@ Written in Swift 1.2,  this app allows a user to use their twitter account to se
 <img src="https://github.com/SatbirTanda/SmashTag/blob/master/imgs/ss2.png" width="33%">
 <img src="https://github.com/SatbirTanda/SmashTag/blob/master/imgs/ss3.png" width="33%">
 
-Based on Stanford's CS193p Assignment 4!  This app was made in 2015 with XCode 6.4 because of its swift 1.2 compiler.
+Based on Stanford's Assignment 4!  This app was made in 2015 with XCode 6.4 because of its swift 1.2 compiler.
